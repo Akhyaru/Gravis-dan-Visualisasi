@@ -75,7 +75,7 @@ void setup(){
 
 void draw(){
   noStroke();
-  background(204);
+  background(50);
   
   // Calculate the center of the bounding box of the letters
   float centerX = 300;  // (0 + 600) / 2
